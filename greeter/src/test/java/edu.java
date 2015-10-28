@@ -1,5 +1,6 @@
 
 import greeter.greeter;
+public var2;
 
 
 public class edu {
